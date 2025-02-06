@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=+Rubik+&weight=700&size=25&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+I'm+Ayub!+%F0%9F%91%8B)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🌱 I’m currently learning JavaScript and improving my web development skills<br>
 
