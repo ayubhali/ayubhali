@@ -1,14 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=+Rubik+&weight=700&size=25&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+I'm+Ayub!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-# 💫 About Me:
-🌱 I’m currently learning JavaScript and improving my web development skills<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=+Rubik+&weight=700&size=40&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+I'm+Ayub!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-## 🌐 Socials:
+---
+
+## 💫 About Me:
+🌱 I’m currently learning JavaScript and improving my web development skills.
+
+---
+
+## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayub-hussein-ali-852768237/) 
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ### 🖥️ Web Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -33,3 +38,5 @@
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ---
+
+✨ **Feel free to connect with me!** 🚀
