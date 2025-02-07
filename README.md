@@ -36,5 +36,3 @@
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ---
-
-✨ **Feel free to connect with me!** 🚀
