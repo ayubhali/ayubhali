@@ -6,11 +6,6 @@
 
 ---
 
-## Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayub-hussein-ali-852768237/) 
-
----
-
 ## Tech Stack:
 
 ### 🖥️ Web Development:
