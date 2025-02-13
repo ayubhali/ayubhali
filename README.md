@@ -2,7 +2,7 @@
 
 
 ## About Me:
-🌱 I’m currently learning JavaScript and improving my web development skills.
+🌱 I’m currently enhancing my web development skills.
 
 ---
 
