@@ -1,12 +1,3 @@
-
-
-
-## About Me:
-🌱 I’m currently enhancing my web development skills.
-
----
-
-## Tech Stack:
 # Hi 👋, I'm Ayub Ali
 
 ## About Me:
@@ -21,6 +12,8 @@
 🌱 Learning **React, Next.js, and Golang**.
 
 📫 Reach me at **ayub@hali.com**
+
+🌐 Check out my portfolio: [ayubhali.com](https://ayubhali.com/)
 
 ---
 
@@ -51,15 +44,11 @@
 
 ### 🔧 Tools & Frameworks:
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## 📞 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayub-hussein-ali-852768237/)
 
-
----
