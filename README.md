@@ -11,7 +11,7 @@
 
 🌱 Learning **React, Next.js, and Golang**.
 
-📫 Reach me at **ayub@hali.com**
+📫 Reach me at **ayub@ayubhali.com**
 
 🌐 Check out my portfolio: [ayubhali.com](https://ayubhali.com/)
 
