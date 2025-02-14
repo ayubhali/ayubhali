@@ -7,7 +7,7 @@
 
 💻 Passionate about backend development, software engineering, and building impactful web applications.
 
-🔭 Currently working on **Camel Burger Website**.
+🔭 Currently working on **Horizon Banking**.
 
 🌱 Learning **React, Next.js, and Golang**.
 
