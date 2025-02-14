@@ -9,7 +9,7 @@
 
 🔭 Currently working on **Horizon Banking**.
 
-🌱 Learning **Golang**.
+🌱 Learning **Go*.
 
 ---
 
