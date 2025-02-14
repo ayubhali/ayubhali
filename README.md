@@ -3,7 +3,7 @@
 ## About Me:
 🌱 I’m currently enhancing my web development skills.
 
-🎓 4th-year Computing Sciences student at the University of Alberta.
+🎓 3rd-year Computing Sciences student at the University of Alberta.
 
 💻 Passionate about backend development, software engineering, and building impactful web applications.
 
