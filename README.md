@@ -3,17 +3,13 @@
 ## About Me:
 🌱 I’m currently enhancing my web development skills.
 
-🎓 3rd-year Computing Sciences student at the University of Alberta.
+🎓 4th-year Computing Sciences student at the University of Alberta.
 
 💻 Passionate about backend development, software engineering, and building impactful web applications.
 
 🔭 Currently working on **Horizon Banking**.
 
-🌱 Learning **React, Next.js, and Golang**.
-
-📫 Reach me at **ayub@ayubhali.com**
-
-🌐 Check out my portfolio: [ayubhali.com](https://ayubhali.com/)
+🌱 Learning **Golang**.
 
 ---
 
