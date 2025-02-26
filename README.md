@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ayub Ali
+# Hi 👋, I'm Ayub Hussein Ali
 
 ## About Me:
 🌱 I’m currently enhancing my web development skills.
