@@ -7,8 +7,6 @@
 
 💻 Passionate about backend development and software engineering.
 
-🔭 Currently working on **Next-Blogger**.
-
 🌱 Learning **Go**.
 
 ---
