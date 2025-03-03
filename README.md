@@ -1,13 +1,13 @@
 # Hi 👋, I'm Ayub Hussein Ali
 
 ## About Me:
-🌱 I’m currently enhancing my web development skills.
+🌱 I’m currently enhancing my web development skills
 
-🎓 3rd-year Computing Science student at the University of Alberta.
+🎓 3rd-year Computing Science student at the University of Alberta
 
-💻 Passionate about backend development and software engineering.
+💻 Passionate about backend development and software engineering
 
-🌱 Learning **Go**.
+🌱 Learning **Go**
 
 ---
 
