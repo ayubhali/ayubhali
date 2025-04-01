@@ -5,7 +5,7 @@
 
 🎓 3rd-year Computing Science student at the University of Alberta
 
-💻 Passionate about backend development and software engineering
+💻 Passionate about building Data driven applications
 
 🌱 Learning **Go**
 
