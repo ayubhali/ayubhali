@@ -4,7 +4,7 @@ Hi, I’m Ayub Ali. I’m passionate about cybersecurity and hands-on problem so
 
 ## ⚠️ Vulnerability Management
 
-- **[Vulnerability Management Program](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Vulnerability Management Program](https://github.com/ayubhali/Vulnerability-Management)**
 - **[Automated Remediations (PowerShell & Bash)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting & Security Ops
