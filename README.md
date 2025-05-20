@@ -117,7 +117,7 @@ A list of my certifications, which can be verified by clicking the associated bu
 
 ## 🎓 Formal Education
 
-**Bachelors of Science -BS, Computing Science Specialization**  
+**Bachelors of Science -Computing Science Specialization**  
 *University of Alberta*<br><br>
 
 
