@@ -47,21 +47,6 @@ My skills and the hands-on projects that showcase my practical experience.
 | Internal Network Monitoring (MDE & KQL)         | <a href="https://github.com/Serg-Luka/Sudden-Network-Slowdowns-Incident">Sudden Network Slowdowns</a> |
 | Insider Threat Detection (MDE & KQL)             | <a href="https://github.com/Serg-Luka/Threat-Hunting-Incident-Data-Exfiltration-Employee">Data Exfiltration by Employee</a> |
 
-
-#### Google Cybersecurity Professional Labs
-
-| Focus Area                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Security Audit and Risk Assessment Reporting          | <a href="https://github.com/Serg-Luka/Risk-Management-Lab/blob/main/README.md">Risk Management Lab</a>|
-| Managing Authorisation | <a href="https://github.com/Serg-Luka/Managing-Authorisation/blob/main/README.md">File Permissions Lab</a>|
-| Applying Filters to SQL Queries         | <a href="https://github.com/Serg-Luka/Applying-Filter-to-SQL-Queries/">SQL Lab</a>|
-| Vulnerability Assessment using NIST SP 800-30      | <a href="https://github.com/Serg-Luka/Conducting-a-Vulnerability-Assessment/">Vulnerability Assessment Lab</a>|
-| Packet Capture Analysis (Wireshark & tcpdump)                  |<a href="https://github.com/Serg-Luka/Packet-Capture-Analysis/">Network Analysis Lab</a>|
-| SIEM Querying with Splunk and Chronicle | SIEM Detection Lab|
-| Incident Handler's Journal      | <a href="https://github.com/Serg-Luka/Incident-Handler-Journal/">Incident Handler Lab</a>|
-| Attack Simulation and Threat Analysis (PASTA) Model      | <a href="https://github.com/Serg-Luka/Identify-Security-Requirements-with-PASTA/tree/main">PASTA Worksheet</a>|
-<br>
-
 ## 🛠️ Tools
 
 Here’s a look at the tools I’ve worked with and have experience using.
