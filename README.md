@@ -54,9 +54,6 @@ Here’s a look at the tools I’ve worked with and have experience using.
 #### Network
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-<img src="https://img.shields.io/badge/-Snort-F06A99?&style=for-the-badge&logo=Snort&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network_Miner-2E8B57?&style=for-the-badge&logo=Network_Miner&logoColor=white" />
 </div>
 
 #### Endpoint
@@ -68,7 +65,6 @@ Here’s a look at the tools I’ve worked with and have experience using.
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Chronicle-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
 #### Vulnerability Scanning
@@ -115,22 +111,6 @@ A list of my certifications, which can be verified by clicking the associated bu
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/SergLuka/4B42C5CE36F5C632?sharingId=E759FF9A21D23D5D" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/AZ--900:_Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoft" alt="AZ-900: Azure Fundamentals Badge" />
   </a><br>
-
-  <a href="https://www.credly.com/badges/0c748194-4c62-48ff-b84d-897930aa1bc7/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/ISC2%20Certified%20in%20Cybersecurity-00A79D?style=for-the-badge&logo=ISC2&logoColor=white" alt="ISC2 Certified in Cybersecurity Badge" />
-  </a><br>
-
-  <a href="https://www.credly.com/badges/f6e7de1d-c485-495a-961b-4479fb1612b8/linked_in_profile" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-white?style=for-the-badge&logo=google&logoColor=black" />
-  </a><br>
-
-  <a href="https://drive.google.com/file/d/1YDeRtapsw2WUk_J_h5H82cNto3bwPqAq/view" target="_blank">
-    <img src="https://img.shields.io/badge/-Cybersecurity%20Fundamentals-4CAF50?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" />
-  </a>
-
-  <a href="https://arcx.io/verify-certificate?id=9748cdafc432ee474ca1f3f5127af0cb3128103a&k=71a9fc096b784eacb659a3e88a2dcfb0" target="_blank">
-    <img src="https://img.shields.io/badge/ArcX%20Cyber%20Threat%20Intelligence%20101-orange?style=for-the-badge&logo=search&logoColor=white" />
-  </a>
 
 </div><br>
 
