@@ -117,9 +117,8 @@ A list of my certifications, which can be verified by clicking the associated bu
 
 ## 🎓 Formal Education
 
-**First-Class Honours Degree in Business Studies**  
-*Nottingham Trent University*<br><br>
-
+**Bachelors of Science -BS, Computing Science Specialization**  
+*University of Alberta*<br><br>
 
 
 ## 🎯 Notable Soft Skills
