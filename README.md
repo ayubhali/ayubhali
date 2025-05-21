@@ -16,10 +16,8 @@ Connect with me.
 Check out my progress and accomplishments on TryHackMe!
 
 <a href="https://tryhackme.com/p/Melonashell" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Melonashell.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Melonashell.png?🍕=pizza3" alt="TryHackMe Badge" />
 </a>
-
-
 
 ## 🧰 Cybersecurity Labs
 
