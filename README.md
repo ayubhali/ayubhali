@@ -128,11 +128,8 @@ A list of my certifications, which can be verified by clicking the associated bu
 
 
 ## 💻 My TryHackMe Profile
-<p>Check out my progress and accomplishments on TryHackMe!</p>
 
-<a href="https://tryhackme.com/p/Plotsu" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Plotsu.png" alt="TryHackMe Badge" />
-</a><br><br>
+Check out my progress and accomplishments on TryHackMe!
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=Plotsu" style="border:none;" width="100%" height="250"></iframe>
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Melonashell.png)](https://tryhackme.com/p/Melonashell)
 
