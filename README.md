@@ -11,9 +11,6 @@ Connect with me.
 ## 👨‍💻 Overview
 <p>I am committed to advancing my career in cybersecurity and am actively seeking a role as a <strong>Cybersecurity Analyst</strong>. I have developed skills in <strong>threat detection</strong>, <strong>incident response</strong>, and <strong>system security</strong>, all of which are demonstrated in my project portfolio. I am eager to apply my knowledge in real-world environments and continue to grow and evolve in the dynamic field of cybersecurity.</p><br>
 
-## 💻 My TryHackMe Profile
-<p>Check out my progress and accomplishments on TryHackMe!</p> <a href="https://tryhackme.com/p/Melonashell" target="_blank"> <img src="https://tryhackme-badges.s3.amazonaws.com/Melonashell.png?🍕=pizza3" /> </a><br><br>
-
 ## 🧰 Cybersecurity Labs
 
 My skills and the hands-on projects that showcase my practical experience.
@@ -130,8 +127,8 @@ A list of my certifications, which can be verified by clicking the associated bu
 
 
 ## 💻 My TryHackMe Profile
+<a href="https://tryhackme.com/p/Melonashell" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Melonashell.png" alt="TryHackMe Badge" />
+</a>
 
-Check out my progress and accomplishments on TryHackMe!
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Melonashell.png)](https://tryhackme.com/p/Melonashell)
 
