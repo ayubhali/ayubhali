@@ -8,8 +8,11 @@ Connect with me.
   <img src="https://img.shields.io/badge/LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+
 ## 👨‍💻 Overview
-<p>I am committed to advancing my career in cybersecurity and am actively seeking a role as a <strong>Cybersecurity Analyst</strong>. I have developed skills in <strong>threat detection</strong>, <strong>incident response</strong>, and <strong>system security</strong>, all of which are demonstrated in my project portfolio. I am eager to apply my knowledge in real-world environments and continue to grow and evolve in the dynamic field of cybersecurity.</p><br>
+
+<p>I’m a 4th-year Computing Science student at the University of Alberta, specializing in cybersecurity. I'm actively seeking a role as a <strong>Cybersecurity Analyst</strong> where I can apply my skills in <strong>threat detection</strong>, <strong>incident response</strong>, and <strong>system security</strong>. Through hands-on labs, certifications, and real-world projects, I’ve developed a solid foundation in defensive security operations and I’m committed to continuous learning in this ever-evolving field.</p><br>
+
 
 ## 🧰 Cybersecurity Labs
 
@@ -127,11 +130,3 @@ A list of my certifications, which can be verified by clicking the associated bu
 - Inquisitive and committed to continuous learning  
 - Solid business acumen
 <br><br>
-
-
-## 💻 My TryHackMe Profile
-<a href="https://tryhackme.com/p/Melonashell" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Melonashell.png" alt="TryHackMe Badge" />
-</a>
-
-
