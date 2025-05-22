@@ -22,25 +22,16 @@ My skills and the hands-on projects that showcase my practical experience.
 
 | Focus Area                                         | Associated Project                                                                 |
 |----------------------------------------------------|------------------------------------------------------------------------------------|
-| SSH Hardening (Fail2Ban, UFW, KeyAuth, Tailscale) | [Enhancing SSH Security](https://github.com/Serg-Luka/SSH-Hardening-Home-Lab) |
-| Vulnerability Management (Tenable Nessus)         | [Nessus Scan & Remediation](https://github.com/Serg-Luka/Tenable-Nessus-Vulnerability-Scan-and-Remediation-in-Windows) |
-| Network Threat Analysis (Reverse Shell Detection) | [Malicious Packet Analysis Using Wireshark](https://github.com/Serg-Luka/Analysing-Malicious-Traffic-with-Wireshark) |
-| Cloud-Based Threat Monitoring (Azure Sentinel)    | [Honeypot Monitoring in Azure (Live Traffic)](https://github.com/Serg-Luka/SOC-and-Honeynet-in-Azure-Live-Traffic) |
 
 ### Incident Response Labs
 
 | Focus Area                            | Associated Project |
 |--------------------------------------|--------------------|
-| Incident Detection & Eradication (Sentinel) | [Brute Force Alert Rule Creation](https://github.com/Serg-Luka/Incident-Response-Brute-Force-Alert-Rule) |
 
 ### Threat Hunting Labs
 
 | Focus Area                                  | Associated Project |
 |--------------------------------------------|--------------------|
-| Multi-Stage Attack Investigation (MDE & KQL) | [The Great Admin Heist – Threat Hunting CTF](https://github.com/Serg-Luka/Threat-Hunting-CTF) |
-| External Threat Detection (MDE & KQL)        | [Public Facing IP Detection](https://github.com/Serg-Luka/threat-hunting-brute-force) |
-| Internal Network Monitoring (MDE & KQL)      | [Sudden Network Slowdowns](https://github.com/Serg-Luka/Sudden-Network-Slowdowns-Incident) |
-| Insider Threat Detection (MDE & KQL)         | [Data Exfiltration by Employee](https://github.com/Serg-Luka/Threat-Hunting-Incident-Data-Exfiltration-Employee) |
 
 ---
 
