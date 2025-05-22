@@ -18,7 +18,7 @@ I’m a 4th-year Computing Science student at the University of Alberta, special
 
 My skills and the hands-on projects that showcase my practical experience.
 
-### Personal Cybersecurity Labs
+### Personal Projects  
 
 | Focus Area                                         | Associated Project                                                                 |
 |----------------------------------------------------|------------------------------------------------------------------------------------|
@@ -32,6 +32,11 @@ My skills and the hands-on projects that showcase my practical experience.
 
 | Focus Area                                  | Associated Project |
 |--------------------------------------------|--------------------|
+
+### Research Based Labs
+
+| Focus Area                            | Associated Project |
+|--------------------------------------|--------------------|
 
 ---
 
