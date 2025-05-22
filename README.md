@@ -43,6 +43,9 @@ My skills and the hands-on projects that showcase my practical experience.
 
 Here’s a look at the tools I’ve worked with and have experience using.
 
+Programming / Scripting
+<div style="display: flex; gap: 5px; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/-C/C++-00599C?&style=for-the-badge&logo=cplusplus&logoColor=white" /> </div>
+
 #### Network
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
