@@ -2,103 +2,108 @@
 
 ## Hello there, I'm Ayub Ali!
 
-Connect with me.
+Connect with me:
 
-<a href="https://www.linkedin.com/in/ayubhali/">
-  <img src="https://img.shields.io/badge/LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayubhali/)
 
+---
 
 ## 👨‍💻 Overview
 
-<p>I’m a 4th-year Computing Science student at the University of Alberta, specializing in cybersecurity. I'm actively seeking a role as a <strong>Cybersecurity Analyst</strong> where I can apply my skills in <strong>threat detection</strong>, <strong>incident response</strong>, and <strong>system security</strong>. Through hands-on labs, certifications, and real-world projects, I’ve developed a solid foundation in defensive security operations and I’m committed to continuous learning in this ever-evolving field.</p><br>
+I’m a 4th-year Computing Science student at the University of Alberta, specializing in cybersecurity. I'm actively seeking a role as a **Cybersecurity Analyst** where I can apply my skills in **threat detection**, **incident response**, and **system security**. Through hands-on labs, certifications, and real-world projects, I’ve developed a solid foundation in defensive security operations and I’m committed to continuous learning in this ever-evolving field.
 
+---
 
 ## 🧰 Cybersecurity Labs
 
 My skills and the hands-on projects that showcase my practical experience.
 
-#### Personal Cybersecurity Labs
+### Personal Cybersecurity Labs
 
 | Focus Area                                         | Associated Project                                                                 |
 |----------------------------------------------------|------------------------------------------------------------------------------------|
-| SSH Hardening (Fail2Ban, UFW, KeyAuth, Tailscale) | <a href="https://github.com/Serg-Luka/SSH-Hardening-Home-Lab">Enhancing SSH Security</a> |
-| Vulnerability Management (Tenable Nessus)         | <a href="https://github.com/Serg-Luka/Tenable-Nessus-Vulnerability-Scan-and-Remediation-in-Windows">Nessus Scan & Remediation</a> |
-| Network Threat Analysis (Reverse Shell Detection) | <a href="https://github.com/Serg-Luka/Analysing-Malicious-Traffic-with-Wireshark">Malicious Packet Analysis Using Wireshark</a> |
-| Cloud-Based Threat Monitoring (Azure Sentinel)    | <a href="https://github.com/Serg-Luka/SOC-and-Honeynet-in-Azure-Live-Traffic">Honeypot Monitoring in Azure (Live Traffic)</a> |
+| SSH Hardening (Fail2Ban, UFW, KeyAuth, Tailscale) | [Enhancing SSH Security](https://github.com/Serg-Luka/SSH-Hardening-Home-Lab) |
+| Vulnerability Management (Tenable Nessus)         | [Nessus Scan & Remediation](https://github.com/Serg-Luka/Tenable-Nessus-Vulnerability-Scan-and-Remediation-in-Windows) |
+| Network Threat Analysis (Reverse Shell Detection) | [Malicious Packet Analysis Using Wireshark](https://github.com/Serg-Luka/Analysing-Malicious-Traffic-with-Wireshark) |
+| Cloud-Based Threat Monitoring (Azure Sentinel)    | [Honeypot Monitoring in Azure (Live Traffic)](https://github.com/Serg-Luka/SOC-and-Honeynet-in-Azure-Live-Traffic) |
 
-#### Incident Response Labs
+### Incident Response Labs
 
-| Focus Area                                             | Associated Project                                                                 |
-|---------------------------------------------------|------------------------------------------------------------------------------------|
-| Incident Detection & Eradication (Sentinel)     | <a href="https://github.com/Serg-Luka/Incident-Response-Brute-Force-Alert-Rule">Brute Force Alert Rule Creation</a> |
+| Focus Area                            | Associated Project |
+|--------------------------------------|--------------------|
+| Incident Detection & Eradication (Sentinel) | [Brute Force Alert Rule Creation](https://github.com/Serg-Luka/Incident-Response-Brute-Force-Alert-Rule) |
 
-#### Threat Hunting Labs
+### Threat Hunting Labs
 
-| Focus Area                                             | Associated Project                                                                 |
-|---------------------------------------------------|------------------------------------------------------------------------------------|
-| Multi-Stage Attack Investigation (MDE & KQL)	            | <a href="https://github.com/Serg-Luka/Threat-Hunting-CTF">The Great Admin Heist – Threat Hunting CTF</a> |
-| External Threat Detection (MDE & KQL)            | <a href="https://github.com/Serg-Luka/threat-hunting-brute-force">Public Facing IP Detection</a> |
-| Internal Network Monitoring (MDE & KQL)         | <a href="https://github.com/Serg-Luka/Sudden-Network-Slowdowns-Incident">Sudden Network Slowdowns</a> |
-| Insider Threat Detection (MDE & KQL)             | <a href="https://github.com/Serg-Luka/Threat-Hunting-Incident-Data-Exfiltration-Employee">Data Exfiltration by Employee</a> |
+| Focus Area                                  | Associated Project |
+|--------------------------------------------|--------------------|
+| Multi-Stage Attack Investigation (MDE & KQL) | [The Great Admin Heist – Threat Hunting CTF](https://github.com/Serg-Luka/Threat-Hunting-CTF) |
+| External Threat Detection (MDE & KQL)        | [Public Facing IP Detection](https://github.com/Serg-Luka/threat-hunting-brute-force) |
+| Internal Network Monitoring (MDE & KQL)      | [Sudden Network Slowdowns](https://github.com/Serg-Luka/Sudden-Network-Slowdowns-Incident) |
+| Insider Threat Detection (MDE & KQL)         | [Data Exfiltration by Employee](https://github.com/Serg-Luka/Threat-Hunting-Incident-Data-Exfiltration-Employee) |
+
+---
 
 ## 🛠️ Tools
 
 Here’s a look at the tools I’ve worked with and have experience using.
 
-Programming / Scripting
-<div style="display: flex; gap: 5px; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/-C/C++-00599C?&style=for-the-badge&logo=cplusplus&logoColor=white" /> </div>
-
-#### Network
+### Programming / Scripting
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </div>
 
-#### Endpoint
+### Network
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-#### SIEM
+### Endpoint
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
-#### Vulnerability Scanning
+### SIEM
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/-Tenable_Nessus-00C176?&style=for-the-badge&logo=Tenable&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-#### Email Analysis
+### Vulnerability Scanning
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/-PhishTool-FF5733?&style=for-the-badge&logo=PhishTool&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tenable_Nessus-00C176?style=for-the-badge&logo=Tenable&logoColor=white" />
 </div>
 
-#### Platforms
+### Email Analysis
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Microsoft_Azure-007FFF?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PhishTool-FF5733?style=for-the-badge&logo=PhishTool&logoColor=white" />
 </div>
 
-
-#### Analysis Tools
+### Platforms
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/-URLscan-FF6600?&style=for-the-badge&logo=URLscan&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VirusTotal-2D9B1D?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco_Talos-0061F2?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Abuse.CH-5C5C5C?&style=for-the-badge&logo=AbuseCH&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-FF4F00?&style=for-the-badge&logo=MITRE&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ANY.RUN-6A5ACD?&style=for-the-badge&logo=WindowsTerminal&logoColor=white" />
-</div><br>
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Microsoft_Azure-007FFF?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=VMware&logoColor=white" />
+</div>
 
+### Analysis Tools
+<div style="display: flex; gap: 5px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/-URLscan-FF6600?style=for-the-badge&logo=URLscan&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VirusTotal-2D9B1D?style=for-the-badge&logo=VirusTotal&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cisco_Talos-0061F2?style=for-the-badge&logo=Cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Abuse.CH-5C5C5C?style=for-the-badge&logo=AbuseCH&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-FF4F00?style=for-the-badge&logo=MITRE&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ANY.RUN-6A5ACD?style=for-the-badge&logo=WindowsTerminal&logoColor=white" />
+</div>
+
+---
 
 ## 📑 Certifications
 
-A list of my certifications, which can be verified by clicking the associated button.
+A list of my certifications, which can be verified by clicking the associated button:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
 
@@ -108,25 +113,28 @@ A list of my certifications, which can be verified by clicking the associated bu
 
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/SergLuka/4B42C5CE36F5C632?sharingId=E759FF9A21D23D5D" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/AZ--900:_Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoft" alt="AZ-900: Azure Fundamentals Badge" />
-  </a><br>
+  </a>
 
-</div><br>
+</div>
 
+---
 
 ## 🎓 Formal Education
 
-**Bachelors of Science - Computing Science Specialization**  
-*University of Alberta*<br><br>
+**Bachelor of Science - Computing Science Specialization**  
+*University of Alberta – Edmonton, Canada*  
+Expected Graduation: December 2026
 
+---
 
 ## 🎯 Notable Soft Skills
 
-- Highly adaptable
-- Highly motivated self-learner
-- Strong written and verbal communication skills  
-- Excellent problem-solving abilities
-- Solid presentation skills  
-- Strong team player with a collaborative mindset  
+- Highly adaptable  
+- Strong written and verbal communication  
+- Motivated self-learner  
+- Excellent problem-solving abilities  
+- Clear presentation skills  
+- Team-oriented with a collaborative mindset  
 - Inquisitive and committed to continuous learning  
-- Solid business acumen
-<br><br>
+
+---
