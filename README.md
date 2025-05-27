@@ -123,7 +123,7 @@ Let me know if you'd like to apply the same formatting to other sections (like C
 
 ---
 
-## 🎯 Notable Soft Skills
+## 🌱 Soft Skills
 
 - Highly adaptable  
 - Strong written and verbal communication  
