@@ -12,9 +12,7 @@ I’m a 4th-year Computing Science student at the University of Alberta, special
 
 ---
 
-## 🧰 Cybersecurity Labs
-
-My skills and the hands-on projects that showcase my practical experience.
+## 🧰 Cybersecurity Projects
 
 ### Personal Projects  
 
