@@ -108,8 +108,6 @@ A list of my certifications, which can be verified by clicking the associated bu
 
 ---
 
----
-
 ## 🌱 Soft Skills
 
 - Highly adaptable  
