@@ -8,7 +8,7 @@ Connect with me:
 
 ---
 
-## 👨‍💻 Overview
+## Overview
 
 I’m a 4th-year Computing Science student at the University of Alberta, specializing in cybersecurity. I'm actively seeking a role as a **Cybersecurity Analyst** where I can apply my skills in **threat detection**, **incident response**, and **system security**. Through hands-on labs, certifications, and real-world projects, I’ve developed a solid foundation in defensive security operations and I’m committed to continuous learning in this ever-evolving field.
 
