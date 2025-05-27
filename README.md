@@ -110,16 +110,13 @@ A list of my certifications, which can be verified by clicking the associated bu
 
 ---
 
-## 🎓 Formal Education
+## 🎓 Education
 
 * **Bachelor of Science – Computing Science Specialization**
 * *University of Alberta – Edmonton, Canada*
 * *Expected Graduation: December 2026*
 
 ---
-
-Let me know if you'd like to apply the same formatting to other sections (like Certifications or Projects).
-
 
 ---
 
