@@ -47,8 +47,10 @@ Here’s a look at the tools I’ve worked with and have experience using.
 ### Programming / Scripting
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </div>
 
 ### Network
@@ -70,6 +72,14 @@ Here’s a look at the tools I’ve worked with and have experience using.
 ### Vulnerability Scanning
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-Tenable_Nessus-00C176?style=for-the-badge&logo=Tenable&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenVAS-00B9E4?style=for-the-badge&logo=openvas&logoColor=white" />
+</div>
+
+### Penetration Testing / Recon
+<div style="display: flex; gap: 5px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/-Nmap-214478?style=for-the-badge&logo=Nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Metasploit-5094CE?style=for-the-badge&logo=Metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scapy-FFC107?style=for-the-badge&logo=python&logoColor=black" />
 </div>
 
 ### Email Analysis
@@ -95,26 +105,25 @@ Here’s a look at the tools I’ve worked with and have experience using.
   <img src="https://img.shields.io/badge/-ANY.RUN-6A5ACD?style=for-the-badge&logo=WindowsTerminal&logoColor=white" />
 </div>
 
----
 
+---
 ## 📑 Certifications
 
-A list of my certifications, which can be verified by clicking the associated button:
+A list of my certifications, which can be verified by clicking the associated button (links will be updated soon):
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
 
-  <a href="https://www.credly.com/badges/ba872182-26ff-4769-afef-7ed7fb9c6806/" target="_blank" rel="noopener noreferrer">
+  <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/CompTIA%20Security%2B-%23FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+ Badge" />
   </a>
 
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SergLuka/4B42C5CE36F5C632?sharingId=E759FF9A21D23D5D" target="_blank" rel="noopener noreferrer">
+  <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/AZ--900:_Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoft" alt="AZ-900: Azure Fundamentals Badge" />
   </a>
 
 </div>
 
 ---
-
 
 ## 🎓 Formal Education
 
