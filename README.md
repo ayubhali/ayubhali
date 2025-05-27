@@ -4,11 +4,6 @@
 
 ## 🧰 Cybersecurity Projects
 
-###  Personal Projects
-| Focus Area                    | Associated Project |
-|------------------------------|--------------------|
-|                              |                    |
-
 ###  Incident Response
 | Focus Area              | Associated Project |
 |-------------------------|--------------------|
@@ -18,11 +13,6 @@
 | Focus Area                  | Associated Project |
 |----------------------------|--------------------|
 |                            |                    |
-
-###  Research Labs
-| Focus Area                          | Associated Project |
-|------------------------------------|--------------------|
-|                                    |                    |
 
 ---
 
