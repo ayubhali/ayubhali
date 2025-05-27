@@ -14,7 +14,7 @@
 |-------------------------|--------------------|
 | Vulnerability Management | [Enterprise Vulnerability Management Lab](https://github.com/ayubhali/Vulnerability-Management-Program) |
 
-### 🕵 Threat Hunting
+### Threat Hunting
 | Focus Area                  | Associated Project |
 |----------------------------|--------------------|
 |                            |                    |
