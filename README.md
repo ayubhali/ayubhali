@@ -28,8 +28,6 @@
 
 ## 🛠️ Tools
 
-Here’s a look at the tools I’ve worked with and have experience using.
-
 ### Programming / Scripting
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -80,8 +78,6 @@ Here’s a look at the tools I’ve worked with and have experience using.
 ---
 ## 📑 Certifications
 
-A list of my certifications, which can be verified by clicking the associated button (links will be updated soon):
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
 
   <a href="#" target="_blank" rel="noopener noreferrer">
@@ -93,25 +89,5 @@ A list of my certifications, which can be verified by clicking the associated bu
   </a>
 
 </div>
-
----
-
-## 🎓 Education
-
-* **Bachelor of Science – Computing Science Specialization**
-* *University of Alberta – Edmonton, Canada*
-* *Expected Graduation: December 2026*
-
----
-
-## 🌱 Soft Skills
-
-- Highly adaptable  
-- Strong written and verbal communication  
-- Motivated self-learner  
-- Excellent problem-solving abilities  
-- Clear presentation skills  
-- Team-oriented with a collaborative mindset  
-- Inquisitive and committed to continuous learning  
 
 ---
