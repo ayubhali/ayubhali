@@ -56,6 +56,7 @@ Here’s a look at the tools I’ve worked with and have experience using.
 ### Network
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scapy-FFC107?style=for-the-badge&logo=python&logoColor=black" />
 </div>
 
 ### Endpoint
@@ -79,12 +80,6 @@ Here’s a look at the tools I’ve worked with and have experience using.
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-Nmap-214478?style=for-the-badge&logo=Nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/-Metasploit-5094CE?style=for-the-badge&logo=Metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Scapy-FFC107?style=for-the-badge&logo=python&logoColor=black" />
-</div>
-
-### Email Analysis
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/-PhishTool-FF5733?style=for-the-badge&logo=PhishTool&logoColor=white" />
 </div>
 
 ### Platforms
@@ -93,16 +88,6 @@ Here’s a look at the tools I’ve worked with and have experience using.
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Microsoft_Azure-007FFF?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
   <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=VMware&logoColor=white" />
-</div>
-
-### Analysis Tools
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/-URLscan-FF6600?style=for-the-badge&logo=URLscan&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VirusTotal-2D9B1D?style=for-the-badge&logo=VirusTotal&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cisco_Talos-0061F2?style=for-the-badge&logo=Cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Abuse.CH-5C5C5C?style=for-the-badge&logo=AbuseCH&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-FF4F00?style=for-the-badge&logo=MITRE&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ANY.RUN-6A5ACD?style=for-the-badge&logo=WindowsTerminal&logoColor=white" />
 </div>
 
 
