@@ -4,30 +4,27 @@
 
 ## 🧰 Cybersecurity Projects
 
-### 📌 Personal Projects
+###  Personal Projects
 | Focus Area                    | Associated Project |
 |------------------------------|--------------------|
-| Packet Sniffing (Scapy)      | *(Coming Soon)*    |
-| DoS Detection (iptables)     | *(Coming Soon)*    |
+|                              |                    |
 
-### 🚨 Incident Response
+###  Incident Response
 | Focus Area              | Associated Project |
 |-------------------------|--------------------|
-| Vulnerability Management | [Vulnerability Management Program](https://github.com/ayubhali/Vulnerability-Management-Program) |
+| Vulnerability Management | [Enterprise Vulnerability Management Lab](https://github.com/ayubhali/Vulnerability-Management-Program) |
 
-### 🕵️ Threat Hunting
+### 🕵 Threat Hunting
 | Focus Area                  | Associated Project |
 |----------------------------|--------------------|
-| Splunk SIEM Use Cases      | *(Coming Soon)*    |
+|                            |                    |
 
-### 🧪 Research Labs
+###  Research Labs
 | Focus Area                          | Associated Project |
 |------------------------------------|--------------------|
-| Prompt Injection in LLMs           | *(Coming Soon)*    |
-| CyberWire NLP Auto-Summarizer Tool | *(Coming Soon)*    |
+|                                    |                    |
 
 ---
-
 
 ## 🛠️ Tools
 
