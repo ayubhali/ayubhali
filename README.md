@@ -4,25 +4,25 @@
 
 ## 🧰 Cybersecurity Projects
 
-### Personal Projects  
+### Personal Projects
+| Focus Area | Associated Project |
+|------------|--------------------|
+|            |                    |
 
-| Focus Area                                         | Associated Project                                                                 |
-|----------------------------------------------------|------------------------------------------------------------------------------------|
+### Incident Response
+| Focus Area | Associated Project |
+|------------|--------------------|
+|            |                    |
 
-### Incident Response Labs
+### Threat Hunting
+| Focus Area | Associated Project |
+|------------|--------------------|
+|            |                    |
 
-| Focus Area                            | Associated Project |
-|--------------------------------------|--------------------|
-
-### Threat Hunting Labs
-
-| Focus Area                                  | Associated Project |
-|--------------------------------------------|--------------------|
-
-### Research Based Labs
-
-| Focus Area                            | Associated Project |
-|--------------------------------------|--------------------|
+### Research Labs
+| Focus Area | Associated Project |
+|------------|--------------------|
+|            |                    |
 
 ---
 
@@ -37,13 +37,13 @@
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 
-### Network
+### Network / Packet Analysis
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Scapy-FFC107?style=for-the-badge&logo=python&logoColor=black" />
 </div>
 
-### Endpoint
+### Endpoint Security
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/-OpenVAS-00B9E4?style=for-the-badge&logo=openvas&logoColor=white" />
 </div>
 
-### Penetration Testing / Recon
+### Pen Testing / Recon
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-Nmap-214478?style=for-the-badge&logo=Nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/-Metasploit-5094CE?style=for-the-badge&logo=Metasploit&logoColor=white" />
@@ -74,20 +74,19 @@
   <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=VMware&logoColor=white" />
 </div>
 
-
 ---
+
 ## 📑 Certifications
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
-
   <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/CompTIA%20Security%2B-%23FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+ Badge" />
   </a>
-
+  
   <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/AZ--900:_Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoft" alt="AZ-900: Azure Fundamentals Badge" />
   </a>
-
 </div>
 
 ---
+
