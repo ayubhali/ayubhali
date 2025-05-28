@@ -35,41 +35,41 @@
             </td>
         </tr>
         <tr>
-            <td style="padding: 12px; vertical-align: top;"><b>🌐 Network / Packet Analysis</b></td>
+            <td style="padding: 12px; vertical-align: top;"><b>Network / Packet Analysis</b></td>
             <td style="padding: 12px;">
                 <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white" />
                 <img src="https://img.shields.io/badge/-Scapy-FFC107?style=flat-square&logo=python&logoColor=black" />
             </td>
         </tr>
         <tr>
-            <td style="padding: 12px; vertical-align: top;"><b>🛡️ Endpoint Security</b></td>
+            <td style="padding: 12px; vertical-align: top;"><b>Endpoint Security</b></td>
             <td style="padding: 12px;">
                 <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?style=flat-square&logo=Microsoft&logoColor=white" />
             </td>
         </tr>
         <tr>
-            <td style="padding: 12px; vertical-align: top;"><b>📊 SIEM</b></td>
+            <td style="padding: 12px; vertical-align: top;"><b>SIEM</b></td>
             <td style="padding: 12px;">
                 <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?style=flat-square&logo=Microsoft&logoColor=white" />
                 <img src="https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=Splunk&logoColor=white" />
             </td>
         </tr>
         <tr>
-            <td style="padding: 12px; vertical-align: top;"><b>🧪 Vulnerability Scanning</b></td>
+            <td style="padding: 12px; vertical-align: top;"><b>Vulnerability Scanning</b></td>
             <td style="padding: 12px;">
                 <img src="https://img.shields.io/badge/-Tenable_Nessus-00C176?style=flat-square&logo=Tenable&logoColor=white" />
                 <img src="https://img.shields.io/badge/-OpenVAS-00B9E4?style=flat-square&logo=openvas&logoColor=white" />
             </td>
         </tr>
         <tr>
-            <td style="padding: 12px; vertical-align: top;"><b>⚔️ Pen Testing / Recon</b></td>
+            <td style="padding: 12px; vertical-align: top;"><b>⚔Pen Testing / Recon</b></td>
             <td style="padding: 12px;">
                 <img src="https://img.shields.io/badge/-Nmap-214478?style=flat-square&logo=Nmap&logoColor=white" />
                 <img src="https://img.shields.io/badge/-Metasploit-5094CE?style=flat-square&logo=Metasploit&logoColor=white" />
             </td>
         </tr>
         <tr>
-            <td style="padding: 12px; vertical-align: top;"><b>☁️ Platforms</b></td>
+            <td style="padding: 12px; vertical-align: top;"><b>Platforms</b></td>
             <td style="padding: 12px;">
                 <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />
                 <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
