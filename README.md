@@ -25,7 +25,7 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding: 12px; vertical-align: top;"><b>💻 Programming / Scripting</b></td>
+            <td style="padding: 12px; vertical-align: top;"><b> Scripting / Programming </b></td>
             <td style="padding: 12px;">
                 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
                 <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
