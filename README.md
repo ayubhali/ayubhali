@@ -87,11 +87,11 @@
   <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/CompTIA%20Security%2B-%23FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+ Badge" />
   </a>
-  
   <a href="#" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/AZ--900:_Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoft" alt="AZ-900: Azure Fundamentals Badge" />
+    <img src="https://img.shields.io/badge/AZ--900%3A%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AZ-900: Azure Fundamentals Badge" />
   </a>
 </div>
+
 
 ---
 
