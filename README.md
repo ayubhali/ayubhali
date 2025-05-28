@@ -14,57 +14,72 @@
 |----------------------------|--------------------|
 |                            |                    |
 
----
+<h2 style="font-size: 2rem; text-align: center;">🛠️ Tools</h2>
 
-## 🛠️ Tools
+<table style="width: 100%; border-collapse: collapse; font-size: 1.1rem;">
+    <thead>
+        <tr style="background-color: #f2f2f2;">
+            <th style="padding: 10px; text-align: left; border-bottom: 2px solid #ddd;">Category</th>
+            <th style="padding: 10px; text-align: left; border-bottom: 2px solid #ddd;">Tools</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="padding: 12px; vertical-align: top;"><b>💻 Programming / Scripting</b></td>
+            <td style="padding: 12px;">
+                <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+                <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
+                <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+                <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+                <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px; vertical-align: top;"><b>🌐 Network / Packet Analysis</b></td>
+            <td style="padding: 12px;">
+                <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white" />
+                <img src="https://img.shields.io/badge/-Scapy-FFC107?style=flat-square&logo=python&logoColor=black" />
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px; vertical-align: top;"><b>🛡️ Endpoint Security</b></td>
+            <td style="padding: 12px;">
+                <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?style=flat-square&logo=Microsoft&logoColor=white" />
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px; vertical-align: top;"><b>📊 SIEM</b></td>
+            <td style="padding: 12px;">
+                <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?style=flat-square&logo=Microsoft&logoColor=white" />
+                <img src="https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=Splunk&logoColor=white" />
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px; vertical-align: top;"><b>🧪 Vulnerability Scanning</b></td>
+            <td style="padding: 12px;">
+                <img src="https://img.shields.io/badge/-Tenable_Nessus-00C176?style=flat-square&logo=Tenable&logoColor=white" />
+                <img src="https://img.shields.io/badge/-OpenVAS-00B9E4?style=flat-square&logo=openvas&logoColor=white" />
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px; vertical-align: top;"><b>⚔️ Pen Testing / Recon</b></td>
+            <td style="padding: 12px;">
+                <img src="https://img.shields.io/badge/-Nmap-214478?style=flat-square&logo=Nmap&logoColor=white" />
+                <img src="https://img.shields.io/badge/-Metasploit-5094CE?style=flat-square&logo=Metasploit&logoColor=white" />
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px; vertical-align: top;"><b>☁️ Platforms</b></td>
+            <td style="padding: 12px;">
+                <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />
+                <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
+                <img src="https://img.shields.io/badge/-Microsoft_Azure-007FFF?style=flat-square&logo=Microsoft-Azure&logoColor=white" />
+                <img src="https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=VMware&logoColor=white" />
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-### Programming / Scripting
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</div>
-
-### Network / Packet Analysis
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Scapy-FFC107?style=for-the-badge&logo=python&logoColor=black" />
-</div>
-
-### Endpoint Security
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
-### SIEM
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
-
-### Vulnerability Scanning
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/-Tenable_Nessus-00C176?style=for-the-badge&logo=Tenable&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OpenVAS-00B9E4?style=for-the-badge&logo=openvas&logoColor=white" />
-</div>
-
-### Pen Testing / Recon
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/-Nmap-214478?style=for-the-badge&logo=Nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Metasploit-5094CE?style=for-the-badge&logo=Metasploit&logoColor=white" />
-</div>
-
-### Platforms
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Microsoft_Azure-007FFF?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=VMware&logoColor=white" />
-</div>
-
----
 
 ## 📑 Certifications
 
