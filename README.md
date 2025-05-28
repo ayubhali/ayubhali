@@ -81,16 +81,23 @@
 </table>
 
 
-## 📑 Certifications
+<h2 style="font-size: 1.75rem; display: flex; align-items: center; gap: 10px;">📑 Certifications</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
-  <a href="#" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/CompTIA%20Security%2B-%23FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+ Badge" />
-  </a>
-  <a href="#" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/AZ--900%3A%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AZ-900: Azure Fundamentals Badge" />
-  </a>
-</div>
+<table style="width: 100%; border-collapse: separate; border-spacing: 15px 10px;">
+  <tr>
+    <td>
+      <a href="#" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/CompTIA%20Security%2B-%23FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+ Badge" />
+      </a>
+    </td>
+    <td>
+      <a href="#" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/AZ--900%3A%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AZ-900: Azure Fundamentals Badge" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 ---
