@@ -62,7 +62,7 @@
             </td>
         </tr>
         <tr>
-            <td style="padding: 12px; vertical-align: top;"><b>⚔Pen Testing / Recon</b></td>
+            <td style="padding: 12px; vertical-align: top;"><b>Pen Testing / Recon</b></td>
             <td style="padding: 12px;">
                 <img src="https://img.shields.io/badge/-Nmap-214478?style=flat-square&logo=Nmap&logoColor=white" />
                 <img src="https://img.shields.io/badge/-Metasploit-5094CE?style=flat-square&logo=Metasploit&logoColor=white" />
