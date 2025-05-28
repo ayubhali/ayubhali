@@ -8,8 +8,9 @@
 
 | Focus Area              | Associated Project |
 |-------------------------|--------------------|
-| Vulnerability Management | [Enterprise Vulnerability Management Lab](https://github.com/ayubhali/Vulnerability-Management-Program) [Vul-Remediations (This Repo)](https://github.com/ayubhali/misc/tree/main/vul-remediations) |
-|                          |  |
+| Vulnerability Management | [Enterprise Vulnerability Management Lab](https://github.com/ayubhali/Vulnerability-Management-Program) |
+|                         | [Vul-Remediations](https://github.com/ayubhali/misc/tree/main/vul-remediations) |
+
 
 
 ### Threat Hunting
