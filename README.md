@@ -14,6 +14,7 @@ I’m a 4th-year Computing Science student at the University of Alberta with exp
 Currently building deeper expertise in risk analysis, incident response, and cloud security. 
 
 Open to cybersecurity internships and entry-level roles 🌱
+
 ---
 
 ## 🧰 Cybersecurity Projects
