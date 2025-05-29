@@ -8,7 +8,7 @@
 
 | Focus Area              | Associated Project |
 |-------------------------|--------------------|
-| Vulnerability Management | [Enterprise Vulnerability Management Lab](https://github.com/ayubhali/Vulnerability-Management-Program) |
+| Vulnerability Management | [Vulnerability Management Lab](https://github.com/ayubhali/Vulnerability-Management-Program) |
 |                         | [Programmatic Vul Remediations (Powershell)](https://github.com/ayubhali/misc/tree/main/vul-remediations) |
 
 
