@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 Overview
+## 🔍  Overview
 
 I’m a 4th-year Computing Science student at the University of Alberta with experience in vulnerability management, threat detection, and security operations. I’ve contributed to the remediation and reporting of vulnerabilities, as well as monitoring and incident detection across on-prem and cloud environments using industry-standard tools.
 
