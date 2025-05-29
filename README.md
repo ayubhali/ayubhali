@@ -72,6 +72,7 @@ Open to cybersecurity internships and entry-level roles 🌱
             <td>
                 <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?style=flat-square&logo=Microsoft&logoColor=white" />
                 <img src="https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=Splunk&logoColor=white" />
+                <img src="https://img.shields.io/badge/-KQL-0078D4?style=flat-square&logo=Microsoft-Azure&logoColor=white" />
             </td>
         </tr>
         <tr>
@@ -99,6 +100,7 @@ Open to cybersecurity internships and entry-level roles 🌱
         </tr>
     </tbody>
 </table>
+
 
 ---
 
