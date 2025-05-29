@@ -12,8 +12,8 @@
 I’m a 4th-year Computing Science student at the University of Alberta with experience in vulnerability management, threat detection, and security operations. I’ve contributed to remediation, monitoring, and incident detection across on-prem and cloud environments using industry-standard tools.
 
 Currently building deeper expertise in risk analysis, incident response, and cloud security. 
-Open to cybersecurity internships and entry-level roles 🌱
 
+Open to cybersecurity internships and entry-level roles 🌱
 ---
 
 ## 🧰 Cybersecurity Projects
