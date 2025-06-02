@@ -24,9 +24,9 @@ I’ve contributed to detection engineering, remediation efforts, and risk analy
 
 ### Threat Hunting
 
-| Focus Area | Associated Project |
-|------------|--------------------|
-| *(coming soon)* | |
+| Focus Area            | Associated Project |
+|------------------------|--------------------|
+| Unauthorized TOR Usage | [Threat Hunt: TOR Browser Detection](https://github.com/ayubhali/Threat-Hunting-Scenario-Tor-Browser-Usage) |
 
 ---
 
