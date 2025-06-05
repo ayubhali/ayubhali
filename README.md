@@ -19,8 +19,10 @@ I’ve contributed to detection engineering, remediation efforts, and risk analy
 
 | Focus Area              | Associated Project |
 |-------------------------|--------------------|
-| Vulnerability Management | [Vulnerability Management Lab](https://github.com/ayubhali/Vulnerability-Management-Program) |
-|                         | [Programmatic Vul Remediations (Powershell)](https://github.com/ayubhali/misc/tree/main/vul-remediations) |
+| Vulnerability Management | [Vulnerability Management Home Lab](https://github.com/ayubhali/Vulnerability-Management-Program) |
+|                         | [Programmatic Vul Remediations (PowerShell)](https://github.com/ayubhali/misc/tree/main/vul-remediations) |
+|                         | [STIG Remediation for Windows 10](https://github.com/ayubhali/stig-remediation-win10) |
+
 
 ### Threat Hunting
 
