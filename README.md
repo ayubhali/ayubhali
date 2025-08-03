@@ -7,7 +7,7 @@
 
 ---
 
-## 🔍  Overview
+## Overview
 I’m a 4th-year Computing Science student at the University of Alberta 
 
 
